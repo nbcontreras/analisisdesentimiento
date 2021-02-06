@@ -1,5 +1,5 @@
 # Análisis de Sentimiento Libre de Contexto
-  Existen distintas técnicas que permiten realizar análisis de sentimientos y obtener resultados en base a estos, pero comúnmente estos algoritmos comparten un problema que es el contexto del cual se obtienen los mensajes, debiendo tener un sistema específico para cada caso. El objetivo de esta investigación es buscar un método para poder realizar esta operación sin la problemática mencionada  anteriormente, para llevar a cabo esto se utilizó tecnologías como Deep learning,  Word Embeddings.
+  Existen distintas técnicas que permiten realizar análisis de sentimientos y obtener resultados en base a estos, pero comúnmente estos algoritmos comparten un problema que es el contexto del cual se obtienen los mensajes, debiendo tener un sistema específico para cada caso. El objetivo de esta investigación es buscar un método para poder realizar esta operación sin la problemática mencionada  anteriormente, para llevar a cabo esto se utilizó tecnologías como Deep learning,  Word Embeddings. El codigo adjuntado puede ser modificado para ser aplicado en una investigación en el idioma Español.
 
 # 1-Dataset
 ## 1.1-Reviews Amazon  (amazon_vfl_reviews_test.csv)
