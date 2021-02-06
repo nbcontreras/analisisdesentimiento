@@ -21,12 +21,12 @@ Los diferentes mensajes están clasificados en 3 polaridades, negativos, neutros
 | 1 | Positivo |0,1,0|
 | 2 | Negativo |0,0,1|
 
-# Herramientas utilizadas
+# 2-Herramientas utilizadas
   Para esta investigación se utilizaron algunas herramientas las cuales se mencionan a continuación.
-## Conceptnet Numberbatch
+## 2.1-Conceptnet Numberbatch
   El word embedding utilizado corresponde a Conceptnet Numberbatch adquirido del proyecto de Concepnet el cual puede ser descargado de la documentación oficial:
   * https://github.com/commonsense/conceptnet-numberbatch
 
-## Hunspell
+## 2.2-Hunspell
   Hunspell fue utilizado como corrector ortográfico con el fin de evitar perder palabras y capturar mejor el contexto de la oración.
   *http://hunspell.github.io/
