@@ -29,4 +29,4 @@ Los diferentes mensajes están clasificados en 3 polaridades, negativos, neutros
 
 ## 2.2-Hunspell
   Hunspell fue utilizado como corrector ortográfico con el fin de evitar perder palabras y capturar mejor el contexto de la oración.
-  *http://hunspell.github.io/
+  * http://hunspell.github.io/
