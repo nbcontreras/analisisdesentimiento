@@ -20,3 +20,9 @@ Los diferentes mensajes están clasificados en 3 polaridades, negativos, neutros
 | 0 | Negativo |1,0,0|
 | 1 | Positivo |0,1,0|
 | 2 | Negativo |0,0,1|
+
+
+# Word Embeddings
+## Conceptnet Numberbatch
+  El word embedding utilizado correspen al del proyecto de Concepnet el cual puede ser descargado de la documentación oficial:
+  * https://github.com/commonsense/conceptnet-numberbatch
