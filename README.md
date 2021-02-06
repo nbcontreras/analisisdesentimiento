@@ -12,8 +12,9 @@
   Pose información sobre, noticias financieras, comentarios de diferentes videojuegos obtenidos de la plataforma de Steam, observaciones sobre aplicaciones móviles de la Play Store, tweets sobre diferentes aerolíneas de USA, tweets sobre el video juego Valorant y finalmente sobre tweets de variados temas.
 Los diferentes mensajes están clasificados en 3 polaridades, negativos, neutros y positivos en donde estas polaridades están estructuradas de la siguiente manera, 0 negativo, 1 neutro, 2 positivo. Por otra parte, el dataset posee 41.512 registros en el idioma inglés, de los cuales 14.476 son negativos, 9.096 son neutros y 17.940 son positivos, además de poseer un diccionario de 64.274 palabras.
 
-## 1.4-Tabla encargada de reprensetar la manera en que se trabajan las pilaridades
-
+## 1.4-Representación de polaridas
+  La siguiente tabla muestra como se trabajan las polaridades con su respectivo vector binario.
+  
 |Clase | Polaridad | Vector Binario|
 | -- | -- | -- |
 | 0 | Negativo |1,0,0|
