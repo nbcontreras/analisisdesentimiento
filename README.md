@@ -4,7 +4,7 @@ Existen distintas técnicas que permiten realizar análisis de sentimientos y ob
 
 
 
-|Clase | Polaridad | Vector Binario
-| 0 | Negativo |1,0,0
-| 1 | Positivo |0,1,0
+|Clase | Polaridad | Vector Binario|
+| 0 | Negativo |1,0,0|
+| 1 | Positivo |0,1,0|
 | 2 | Negativo |0,0,|
